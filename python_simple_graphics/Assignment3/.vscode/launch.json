@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["-f", "hw3_split.ps", "-a", "0", "-b", "0", "-c", "500", "-d", "500", "-j", "0", "-k", "0", "-o", "500", "-p", "500" ,"-s", "1.0", "-m", "0" ,"-n", "0", "-r", "0"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
